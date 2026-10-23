@@ -1,0 +1,19 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{figure}\PYG{p}{(}\PYG{n}{figsize}\PYG{o}{=}\PYG{p}{(}\PYG{l+m+mi}{6}\PYG{p}{,} \PYG{l+m+mi}{6}\PYG{p}{))}
+\PYG{n}{img} \PYG{o}{=} \PYG{n}{plt}\PYG{o}{.}\PYG{n}{imshow}\PYG{p}{(}\PYG{n}{v}\PYG{p}{,} \PYG{n}{cmap}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}turbo\PYGZdq{}}\PYG{p}{,} \PYG{n}{origin}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}lower\PYGZdq{}}\PYG{p}{,} \PYG{n}{animated}\PYG{o}{=}\PYG{k+kc}{True}\PYG{p}{,} \PYG{n}{vmin}\PYG{o}{=\PYGZhy{}}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{n}{vmax}\PYG{o}{=}\PYG{l+m+mi}{2}\PYG{p}{)}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{colorbar}\PYG{p}{(}\PYG{n}{label}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}Potentiel Membranaire\PYGZdq{}}\PYG{p}{)}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{title}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}Ondes Spirales\PYGZdq{}}\PYG{p}{)}
+
+\PYG{k}{for} \PYG{n}{n} \PYG{o+ow}{in} \PYG{n+nb}{range}\PYG{p}{(}\PYG{n}{steps}\PYG{p}{):}
+    \PYG{n}{Lv} \PYG{o}{=} \PYG{n}{laplacian}\PYG{p}{(}\PYG{n}{v}\PYG{p}{)}
+    \PYG{n}{dv} \PYG{o}{=} \PYG{n}{v} \PYG{o}{\PYGZhy{}} \PYG{p}{(}\PYG{n}{v}\PYG{o}{**}\PYG{l+m+mi}{3}\PYG{p}{)} \PYG{o}{/} \PYG{l+m+mi}{3} \PYG{o}{\PYGZhy{}} \PYG{n}{w} \PYG{o}{+} \PYG{n}{D} \PYG{o}{*} \PYG{n}{Lv}
+    \PYG{n}{dw} \PYG{o}{=} \PYG{n}{epsilon\PYGZus{}Field} \PYG{o}{*} \PYG{p}{(}\PYG{n}{v} \PYG{o}{+} \PYG{n}{a} \PYG{o}{\PYGZhy{}} \PYG{n}{b} \PYG{o}{*} \PYG{n}{w}\PYG{p}{)}
+    \PYG{n}{v} \PYG{o}{+=} \PYG{n}{dt} \PYG{o}{*} \PYG{n}{dv}
+    \PYG{n}{w} \PYG{o}{+=} \PYG{n}{dt} \PYG{o}{*} \PYG{n}{dw}
+    \PYG{k}{if} \PYG{n}{n} \PYG{o}{\PYGZpc{}} \PYG{n}{plot\PYGZus{}every} \PYG{o}{==} \PYG{l+m+mi}{1}\PYG{p}{:}
+        \PYG{n}{img}\PYG{o}{.}\PYG{n}{set\PYGZus{}data}\PYG{p}{(}\PYG{n}{v}\PYG{p}{)}
+        \PYG{n}{plt}\PYG{o}{.}\PYG{n}{draw}\PYG{p}{()}
+        \PYG{n}{plt}\PYG{o}{.}\PYG{n}{pause}\PYG{p}{(}\PYG{l+m+mf}{0.0005}\PYG{p}{)}
+
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{show}\PYG{p}{()}
+\end{MintedVerbatim}

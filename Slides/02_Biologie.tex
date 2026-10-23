@@ -1,4 +1,4 @@
-\section{Contexte biologique et naissance du modèle}
+\section{Contexte biologique et naissance du modèle de Ftzhugh-Nagumo (FHN)}
 
 
 %Diapo 1
@@ -7,22 +7,21 @@
 \framesubtitle{Polarisation, dépolarisation et canaux ioniques}
 
 \begin{columns}
-\column{0.5\textwidth}
+\column{0.4\textwidth}
 \begin{small}
 \begin{itemize}
-  \item \textbf{Au repos} : l'intérieur de la cellule est négatif ($\approx -70$ mV) par rapport à l'extérieur : c'est la \alert{polarisation}.
-  \item Maintien par la pompe Na$^+$/K$^+$ et des canaux de fuite.
-  \item \textbf{Dépolarisation} : ouverture de canaux Na$^+$ voltage‑dépendants $\rightarrow$ entrée de Na$^+$ $\rightarrow$ le potentiel devient positif.
-  \item \textbf{Repolarisation} : inactivation des canaux Na$^+$, ouverture de canaux K$^+$ $\rightarrow$ sortie de K$^+$ $\rightarrow$ retour au repos.
+  \item \textbf{Au repos} : l'intérieur de la cellule est négatif ($\approx -70$ mV) par rapport à l'extérieur.
+  \item \textbf{Dépolarisation} : ouverture de canaux Na$^+$ voltage‑dépendants $\rightarrow$ entrée de Na$^+$ $\rightarrow$.
+  \item \textbf{Repolarisation} : inactivation des canaux Na$^+$, ouverture de canaux K$^+$ $\rightarrow$ sortie de K$^+$ .
 \end{itemize}
 \end{small}
-\column{0.5\textwidth}
+\column{0.6\textwidth}
 \begin{figure}[t]
     \centering
     \includegraphics[width=\linewidth]{Figures/canaux_ioniques.png}
     \caption{Canaux ioniques}
-    %\source{Six decades of the FitzHugh-Nagumo model: A guide through its spatio-
-%temporal dynamics and influence across disciplines}
+    \source{Six decades of the FitzHugh-Nagumo model: A guide through its spatio-
+temporal dynamics and influence across disciplines}
 \end{figure}
 \end{columns}
 \end{frame}
@@ -31,22 +30,22 @@
 \begin{frame}
 \frametitle{Contexte biologique et naissance du modèle}
 \framesubtitle{L'excitabilité des cellules cardiaques}
-\begin{columns}
-\column{0.6\textwidth}
-\begin{itemize}
-  \item Les cellules du muscle cardiaque (cardiomyocytes) sont \alert{excitables}.
-  \item Un stimulus suffisant déclenche un \textbf{potentiel d'action} : 
-    dépolarisation rapide suivie d'une repolarisation.
-  \item Ce signal électrique se propage de proche en proche et coordonne la contraction.
-\end{itemize}
-\column{0.4\textwidth}
+%\begin{columns}
+%\column{0.6\textwidth}
+%\begin{itemize}
+%  \item Les cellules du muscle cardiaque (cardiomyocytes) sont \alert{excitables}.
+%  \item Un stimulus suffisant déclenche un \textbf{potentiel d'action} : 
+%    dépolarisation rapide suivie d'une repolarisation.
+%  \item Ce signal électrique se propage de proche en proche et coordonne la contraction.
+%\end{itemize}
+%\column{0.4\textwidth}
 
 \begin{figure}
-    \includegraphics[width=\linewidth]{Figures/potentiel_action.png}
+    \includegraphics[scale = 0.52]{Figures/potentiel_action.png}
     \caption{Potentiel d'action} \label{Figure-1}
-    %\source{ Image modifiée à partir de "How neurons communicate: Figure 3," par OpenStax College, Biology (CC BY 3.0).}
+    \source{ Image modifiée à partir de "How neurons communicate: Figure 3," par OpenStax College, Biology (CC BY 3.0).}
 \end{figure}
-\end{columns}
+%\end{columns}
 \end{frame}
 
 %Diapo 3
@@ -55,9 +54,9 @@
 \framesubtitle{Modèle de Hodgkin-Huxley (1952) – Circuit équivalent}
 \centering
 \begin{figure}
-  \includegraphics[scale = 0.35]{Figures/HH.png} 
+  \includegraphics[scale = 0.33]{Figures/HH.png} 
   \caption{Circuit équivalent : 4 branches parallèles (Na\(^+\), K\(^+\), fuite, capacité).}
-  %\source{University of Pennsylvania School of Arts and Sciences. (n.d.). Circuit diagram and related equation. SAS Lab Manuals.}
+  \source{University of Pennsylvania School of Arts and Sciences. (n.d.). Circuit diagram and related equation. SAS Lab Manuals.}
 \vspace{0.3cm}
 \end{figure}
 \end{frame}
@@ -66,7 +65,7 @@
 
 %Diapo 4
 \begin{frame}
-\frametitle{Contexte biologique et naissance du modèle}
+\frametitle{Contexte biologique et naissance du modèle de Fitzhigh-Nagumo (FHN)}
 \framesubtitle{Modèle de Hodgkin-Huxley (1952) – description mathématique}
 %\column{0.6\textwidth}
 \textbf{Équation de la membrane :}
@@ -132,10 +131,10 @@ C_m\frac{dV}{dt} = -\underbrace{\bar{g}_{\text{Na}} m^3 h (V-E_{\text{Na}})}_{\t
   \displaystyle \frac{dw}{dt} = \varepsilon (v + a - b w)
 \end{cases}
 \]
-\begin{itemize}
-  \item $v$ : variable rapide (potentiel de membrane).
-  \item $w$ : variable lente (recouvrement).
-  \item $\varepsilon \ll 1$ : petit paramètre garantissant la séparation d’échelles.
-  \item $a$, $b$, $I_{\text{app}}$ : paramètres de contrôle du comportement.
-\end{itemize}
+%\begin{itemize}
+%  \item $v$ : variable rapide (potentiel de membrane).
+%  \item $w$ : variable lente (recouvrement).
+%  \item $\varepsilon \ll 1$ : petit paramètre garantissant la séparation d’échelles.
+%  \item $a$, $b$, $I_{\text{app}}$ : paramètres de contrôle du comportement.
+%\end{itemize}
 \end{frame}

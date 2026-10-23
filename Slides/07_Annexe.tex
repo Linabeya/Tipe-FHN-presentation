@@ -1,1 +1,177 @@
 \section{Annexe}
+
+\begin{frame}[fragile]
+\frametitle{Annexe 1 : Génération des isoclines et trajectoires}
+\begin{mintedbox}[fontsize=\tiny]{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+a = 0.9
+b = 0.5
+epsilon = 0.08
+Ip = 1
+T = 200
+dt = 0.01
+t = np.arange(0, T, dt)
+
+v = np.zeros(len(t))
+w = np.zeros(len(t))
+v[0] = 0
+w[0] = 0
+
+for i in range(len(t) - 1):
+    dv = v[i] - v[i]**3 / 3 - w[i] + Ip
+    dw = epsilon * (v[i] + a - b * w[i])
+    v[i + 1] = v[i] + dt * dv
+    w[i + 1] = w[i] + dt * dw
+
+v_plot = np.linspace(-2.5, 2.5, 500)
+w_null2 = (v_plot + a) / b
+w_null_v = v_plot - v_plot**3 / 3 + Ip
+
+plt.figure(figsize=(5, 5))
+plt.plot(v_plot, w_null_v, label="dv/dt = 0")
+plt.plot(v_plot, w_null2, label="dw/dt = 0")
+plt.plot(v, w, alpha=0.6, label="Trajectoire")
+plt.xlabel("Potentiel membranaire v")
+plt.ylabel("Variable de récupération w")
+plt.ylim(-1,3)
+plt.legend()
+plt.grid()
+plt.show()
+\end{mintedbox}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Annexe 2 : Tracé temporel}
+\begin{mintedbox}[fontsize=\tiny]{python}
+...
+for i in range(len(t) - 1):
+    dv = v[i] - v[i]**3 / 3 - w[i] + Ip
+    dw = epsilon * (v[i] + a - b * w[i])
+    v[i + 1] = v[i] + dt * dv
+    w[i + 1] = w[i] + dt * dw
+    
+plt.figure(figsize=(10, 4))
+plt.plot(t, v, label="v(t) : potentiel")
+plt.plot(t, w, label="w(t) : récupération")
+plt.xlabel("Temps")
+plt.ylabel("Variables")
+plt.legend()
+plt.title("Modèle de FitzHugh–Nagumo")
+plt.grid()
+plt.show()
+
+\end{mintedbox}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Annexe 3 : Comparaison avec modèle linéaire}
+\begin{mintedbox}[fontsize=\tiny]{python}
+T = 150
+dt = 0.01
+t = np.arange(0, T, dt)
+v = np.zeros(len(t))
+w = np.zeros(len(t))
+v_lin = np.zeros(len(t))
+w_lin = np.zeros(len(t))
+v[0] = 0
+w[0] = 0
+v_lin[0] = 0
+w_lin[0] = 0
+
+for i in range(len(t) - 1):
+    dv = v[i] - v[i]**3/3 - w[i] + Ip
+    dw = epsilon * (v[i] + a - b * w[i])
+    v[i+1] = v[i] + dt * dv
+    w[i+1] = w[i] + dt * dw
+    if v_lin[i] < va: dv_lin = c * v_lin[i] - d - w_lin[i] + Ip
+    elif v_lin[i] > vb: dv_lin = c * v_lin[i] + d - w_lin[i] + Ip
+    else: dv_lin = (2/3) * v_lin[i] - w_lin[i] + Ip
+    dw_lin = epsilon * (v_lin[i] + a - b * w_lin[i])
+    v_lin[i+1] = v_lin[i] + dt * dv_lin
+    w_lin[i+1] = w_lin[i] + dt * dw_lin
+
+v_plot = np.linspace(-3, 3, 500)
+plt.figure(figsize=(6, 6))
+plt.plot(t,v, label = "cubique")
+plt.plot(t,v_lin, label = "linéaire par morceaux")
+plt.xlabel('t')
+plt.ylabel('v')
+plt.grid()
+plt.legend( )
+plt.title('Allure de la réponse')
+plt.show()
+\end{mintedbox}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Annexe 4-1: Approximation du Laplacien}
+\begin{itemize}
+
+\item{Approximation du laplacien par différences finies centrées à cinq
+points}
+  \[
+  \nabla^2 v_{i,j} \approx \frac{v_{i+1,j} + v_{i-1,j} + v_{i,j+1} + v_{i,j-1} - 4v_{i,j}}{\Delta x^2}.
+  \]
+\end{itemize}
+\begin{mintedbox}[fontsize=\small]{python}
+def laplacian(Z):
+    return (
+        np.roll(Z, 1, axis=0) +
+        np.roll(Z, -1, axis=0) +
+        np.roll(Z, 1, axis=1) +
+        np.roll(Z, -1, axis=1) -
+        4 * Z
+    ) / dx**2
+\end{mintedbox}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Annexe 4-2: Initialisation du Tissu et des variables}
+
+\begin{mintedbox}[fontsize=\footnotesize]{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+Nx, Ny = 256, 256
+dx = 1.0
+dt = 0.01
+steps = 15000
+plot_every = 40
+
+D = 1.0
+a = 0.8
+b = 0.3
+epsilon = 0.08
+epsilon_Field = epsilon * (1 + 0.0 * np.random.randn(Nx, Ny))
+v = -1.0 * np.ones((Nx, Ny))  
+w = -0.5 * np.ones((Nx, Ny))  
+
+v[50:150,Ny//2-4-20:Ny//2+4-10] = 2.0
+w[50:150,Ny//2-4-30:Ny//2+4-10] = 0.0
+\end{mintedbox}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Annexe 4-3: Simulation et visualisation}
+\begin{mintedbox}[fontsize=\footnotesize]{python}
+plt.figure(figsize=(6, 6))
+img = plt.imshow(v, cmap="turbo", origin="lower", animated=True, vmin=-2, vmax=2)
+plt.colorbar(label="Potentiel Membranaire")
+plt.title("Ondes Spirales")
+
+for n in range(steps):
+    Lv = laplacian(v)                     
+    dv = v - (v**3) / 3 - w + D * Lv      
+    dw = epsilon_Field * (v + a - b * w) 
+    v += dt * dv
+    w += dt * dw
+    if n % plot_every == 1:
+        img.set_data(v)          
+        plt.draw()
+        plt.pause(0.0005)
+
+plt.show()
+\end{mintedbox}
+\end{frame}

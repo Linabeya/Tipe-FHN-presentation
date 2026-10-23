@@ -1,0 +1,86 @@
+
+\documentclass[10pt]{beamer}
+
+\usetheme{Frankfurt}
+\usecolortheme{beaver}
+\setbeamertemplate{footline}[frame number]
+
+\usepackage{tcolorbox}
+
+\usepackage{minted}
+
+\tcbuselibrary{minted,breakable,xparse,skins}
+
+\definecolor{bg}{gray}{0.95}
+\DeclareTCBListing{mintedbox}{O{}m!O{}}{%
+  breakable=true,
+  listing engine=minted,
+  listing only,
+  minted language=#2,
+  minted style=default,
+  minted options={%
+    linenos,
+    gobble=0,
+    breaklines=true,
+    breakafter=,,
+    fontsize=\small,
+    numbersep=8pt,
+    #1},
+  boxsep=0pt,
+  left skip=0pt,
+  right skip=0pt,
+  left=25pt,
+  right=0pt,
+  top=3pt,
+  bottom=3pt,
+  arc=5pt,
+  leftrule=0pt,
+  rightrule=0pt,
+  bottomrule=2pt,
+  toprule=2pt,
+  colback=bg,
+  colframe=orange!70,
+  enhanced,
+  overlay={%
+    \begin{tcbclipinterior}
+    \fill[orange!20!white] (frame.south west) rectangle ([xshift=20pt]frame.north west);
+    \end{tcbclipinterior}},
+  #3}
+
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{caption} 
+\usepackage{xcolor} 
+\usepackage{amsmath}
+
+\newcommand{\source}[1]{\caption*{\centering\small Source: #1}}
+\usepackage[font=small, labelfont=bf]{caption}
+
+\title[Dynamique cardiaque]{Cycles limites et boucles de propagation dans la dynamique électrique du cœur}
+\author{El Yousfi Alaoui Nabil}
+\institute{N°SCEI: 20571}
+\date{2025/2026}
+
+
+\begin{document}
+\input{Slides/00_titre_et_tdm.tex}
+\input{Slides/01_Introduction.tex}
+\input{Slides/02_Biologie.tex}
+\input{Slides/03_Maths.tex}
+\input{Slides/04_Modèle.tex}
+\input{Slides/05_Simulation_python.tex}
+\input{Slides/06_Intérprétation.tex}
+\input{Slides/07_Annexe.tex}
+\end{document}

@@ -1,0 +1,17 @@
+plt.figure(figsize=(6, 6))
+img = plt.imshow(v, cmap="turbo", origin="lower", animated=True, vmin=-2, vmax=2)
+plt.colorbar(label="Potentiel Membranaire")
+plt.title("Ondes Spirales")
+
+for n in range(steps):
+    Lv = laplacian(v)
+    dv = v - (v**3) / 3 - w + D * Lv
+    dw = epsilon_Field * (v + a - b * w)
+    v += dt * dv
+    w += dt * dw
+    if n % plot_every == 1:
+        img.set_data(v)
+        plt.draw()
+        plt.pause(0.0005)
+
+plt.show()
