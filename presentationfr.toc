@@ -3,6 +3,6 @@
 \beamer@sectionintoc {2}{Contexte biologique et naissance du modèle de Ftzhugh-Nagumo (FHN)}{5}{0}{2}
 \beamer@sectionintoc {3}{Analyse mathématique du système FHN}{11}{0}{3}
 \beamer@sectionintoc {4}{Modèle électronique}{19}{0}{4}
-\beamer@sectionintoc {5}{Simulation numérique du modèle diffusif FHN}{29}{0}{5}
-\beamer@sectionintoc {6}{Interprétation et exploitation}{34}{0}{6}
-\beamer@sectionintoc {7}{Annexe}{38}{0}{7}
+\beamer@sectionintoc {5}{Simulation numérique du modèle diffusif FHN}{31}{0}{5}
+\beamer@sectionintoc {6}{Interprétation et exploitation}{36}{0}{6}
+\beamer@sectionintoc {7}{Annexe}{40}{0}{7}

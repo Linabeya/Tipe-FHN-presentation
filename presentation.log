@@ -1,29 +1,23 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  6 JUN 2026 13:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.10.27)  27 OCT 2026 19:07
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **presentation.tex
 (./presentation.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-06-09>
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamer.cls
-Document Class: beamer 2025/06/15 v3.74 A class for typesetting presentations
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasemodes.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(/usr/share/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count275
 )
 \beamer@tempbox=\box53
 \beamer@tempcount=\count276
 \c@beamerpauses=\count277
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasedecode.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 \beamer@slideinframe=\count278
 \beamer@minimum=\count279
 \beamer@decode@box=\box54
@@ -31,8 +25,7 @@ Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \beamer@commentbox=\box55
 \beamer@modecount=\count280
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/iftex/iftex.sty
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 \headdp=\dimen148
@@ -79,22 +72,18 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \beamer@toclastsection=\count299
 \beamer@tocsectionnumber=\count300
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseoptions.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 ))
 \beamer@paperwidth=\skip50
 \beamer@paperheight=\skip51
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count301
@@ -110,41 +99,30 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen171
 \Gm@dimlist=\toks18
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/math/pgfmath.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/utilities/pgfrcs.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen172
 \pgfutil@tempdimb=\dimen173
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box62
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/utilities/pgfkeys.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
+x
 \pgfkeys@tmptoks=\toks22
-)))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmath.code.tex
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathutil.code.tex
+))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@x=\dimen174
 \pgf@xa=\dimen175
 \pgf@xb=\dimen176
@@ -158,8 +136,7 @@ Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 \c@pgf@countc=\count306
 \c@pgf@countd=\count307
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathparser.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen182
 \pgfmath@count=\count308
 \pgfmath@box=\box63
@@ -167,66 +144,47 @@ Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count309
 )))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/base/size10.clo
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen183
 \Gin@req@width=\dimen184
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@x=\dimen185
 \pgf@y=\dimen186
 \pgf@xa=\dimen187
@@ -248,42 +206,34 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokc=\toks28
 \pgf@sys@id@count=\count314
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count315
 \pgfsyssoftpath@bigbuffer@items=\count316
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/graphics/mathcolor.ltx)
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -294,15 +244,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/math/pgfint.code.tex)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen195
 \pgf@picmaxx=\dimen196
 \pgf@picminy=\dimen197
@@ -318,155 +265,122 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@zx=\dimen263
 \pgf@zy=\dimen264
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen265
 \pgf@path@lasty=\dimen266
-)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen267
 \pgf@shorten@start@additional=\dimen268
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box64
 \pgf@hbox=\box65
 \pgf@layerbox@main=\box66
 \pgf@picture@serial@count=\count317
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen269
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen270
 \pgf@pt@y=\dimen271
 \pgf@pt@temp=\dimen272
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen273
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen274
 \pgf@sys@shading@range@num=\count318
 \pgf@shadingcount=\count319
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box67
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/utilities/xxcolor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count320
 \XC@countmixins=\count321
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/base/atbegshi-ltx.sty
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-06-21 v7.01n Hypertext links for LaTeX
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/hycolor/hycolor.sty
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/hyperref/nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/refcount/refcount.sty
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count322
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/stringenc/stringenc.sty
+(/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
@@ -474,63 +388,57 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Hy@linkcounter=\count323
 \Hy@pagecounter=\count324
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-06-21 v7.01n Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/intcalc/intcalc.sty
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count325
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-06-21 v7.01n Hyperref: PDF Unicode definition (HO)
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4052.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4052.
-Package hyperref Info: Option `implicit' set `false' on input line 4052.
-Package hyperref Info: Hyper figures OFF on input line 4181.
-Package hyperref Info: Link nesting OFF on input line 4186.
-Package hyperref Info: Hyper index ON on input line 4189.
-Package hyperref Info: Plain pages OFF on input line 4196.
-Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4072.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4072.
+Package hyperref Info: Option `implicit' set `false' on input line 4072.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4448.
+Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count326
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/url/url.sty
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen276
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/bitset/bitset.sty
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/bigintcalc/bigintcalc.sty
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count327
 \Field@Width=\dimen277
 \Fld@charsize=\dimen278
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
 \Hy@abspage=\count328
 
 
@@ -538,36 +446,27 @@ Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2025-06-21 v7.01n Hyperref driver for pdfTeX
+ (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count329
 \c@bookmark@seq@number=\count330
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/uniquecounter/uniquecounter.sty
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaserequires.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasecompatibility.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasefont.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks29
 \symAMSa=\mathgroup4
@@ -575,52 +474,27 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/sansmathaccent/sansmathaccent.sty
-Package: sansmathaccent 2020/01/31
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2025/06/04 v3.45 KOMA-Script package (file load hooks)
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2025/06/04 v3.45 KOMA-Script package (using LaTeX hooks)
-
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2025/06/04 v3.45 KOMA-Script package (logo)
-)))))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasetranslator.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator.sty
+)))
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasemisc.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasetwoscreens.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseoverlay.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count331
 \beamer@lastskipcover=\skip52
 \beamer@trivlistdepth=\count332
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasetitle.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasesection.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasesection.sty
 \c@lecture=\count333
 \c@part=\count334
 \c@section=\count335
 \c@subsection=\count336
 \c@subsubsection=\count337
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseframe.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box68
 \beamer@frametitlebox=\box69
 \beamer@zoombox=\box70
@@ -636,38 +510,30 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 \framewidth=\dimen280
 \c@framenumber=\count341
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseverbatim.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseframesize.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box71
 \beamer@autobreakcount=\count342
 \beamer@autobreaklastheight=\dimen281
 \beamer@frametitletoks=\toks31
 \beamer@framesubtitletoks=\toks32
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseframecomponents.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@colheight=\skip57
 \beamer@footins=\box72
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasecolor.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasenotes.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box73
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasetoc.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasetemplates.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
 \beamer@sbttoks=\toks33
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseauxtemplates.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaseboxes.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box74
 \bmb@colorbox=\box75
 \bmb@boxwidth=\dimen282
@@ -680,51 +546,40 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 )
 \beamer@blockheadheight=\dimen289
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbaselocalstructure.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tools/enumerate.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \@enLab=\toks34
 )
-\beamer@bibiconwidth=\skip57
+\beamer@bibiconwidth=\skip58
 \c@figure=\count343
 \c@table=\count344
-\abovecaptionskip=\skip58
-\belowcaptionskip=\skip59
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasenavigation.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
 \beamer@section@min@dim=\dimen290
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasetheorems.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
-\@mathmargin=\skip60
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip61
 
 For additional information on amsmath, use the `?' option.
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks35
 \ex@=\dimen291
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen292
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count345
@@ -769,100 +624,77 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \totwidth@=\dimen298
 \lineht@=\dimen299
 \@envbody=\toks38
-\multlinegap=\skip61
-\multlinetaggap=\skip62
+\multlinegap=\skip62
+\multlinetaggap=\skip63
 \mathdisplay@stack=\toks39
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amscls/amsthm.sty
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks40
 \thm@bodyfont=\toks41
 \thm@headfont=\toks42
 \thm@notefont=\toks43
 \thm@headpunct=\toks44
-\thm@preskip=\skip63
-\thm@postskip=\skip64
-\thm@headsep=\skip65
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
 \dth@everypar=\toks45
 )
 \c@theorem=\count357
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerbasethemes.sty))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerthemedefault.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerfontthemedefault.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamercolorthemedefault.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerinnerthemedefault.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen300
 \beamer@dimb=\dimen301
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerthemeFrankfurt.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamerinnerthemerounded.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamercolorthemeorchid.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamercolorthemewhale.sty))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/beamer/beamercolorthemebeaver.sty)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2025/06/04 version 6.6.0 text color boxes
+(/usr/share/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texmf-dist/tex/latex/beamer/beamerthemeFrankfurt.sty
+(/usr/share/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty)
+(/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty))
+(/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty)
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/frontendlayer/tikz.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box78
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen302
 \pgf@nodesepend=\dimen303
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgf/utilities/pgffor.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen304
 \pgffor@skip=\dimen305
 \pgffor@stack=\toks46
 \pgffor@toks=\toks47
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count358
 \pgfplotmarksize=\dimen306
 )
@@ -882,34 +714,27 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count360
 \tikznumberofcurrentchild=\count361
 \tikz@fig@count=\count362
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count363
 \pgfmatrixcurrentcolumn=\count364
 \pgf@matrix@numberofcolumns=\count365
 )
 \tikz@expandcount=\count366
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.cod
-e.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tools/verbatim.sty
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks48
 \verbatim@line=\toks49
 \verbatim@in@stream=\read3
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/environ/environ.sty
+(/usr/share/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/trimspaces/trimspaces.sty
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \tcb@titlebox=\box83
@@ -926,26 +751,21 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box90
 \tcb@temp=\box91
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/minted/minted.sty
-Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+(/usr/share/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2026/03/03 v3.8.0 Yet another Pygments shim for LaTeX
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/catchfile/catchfile.sty
+(/usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/etexcmds/etexcmds.sty
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/fvextra/fvextra.sty
-Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyv
+(/usr/share/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2026/02/25 v1.14.0 fvextra - extensions and patches for fancyv
 rb
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
 \FV@CodeLineNo=\count370
 \FV@InFile=\read4
 \FV@TabBox=\box92
@@ -953,14 +773,12 @@ Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
 \FV@StepNumber=\count372
 \FV@OutFile=\write5
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/upquote/upquote.sty
+(/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/lineno/lineno.sty
-Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2026/02/16 line numbers on paragraphs v5.7
 \linenopenalty=\count373
 \output=\toks50
 \linenoprevgraf=\count374
@@ -983,7 +801,7 @@ Package: lineno 2025/05/13 line numbers on paragraphs v5.5
 \c@FV@TrueTabCounter=\count384
 \FV@TabBox@Group=\box94
 \FV@bgcolorstructbox=\box95
-\FV@TmpLength=\skip66
+\FV@TmpLength=\skip67
 \c@FV@HighlightLinesStart=\count385
 \c@FV@HighlightLinesStop=\count386
 \FV@LoopCount=\count387
@@ -1004,24 +822,20 @@ Package: lineno 2025/05/13 line numbers on paragraphs v5.5
 \c@FV@BreakBufferDepth=\count394
 \FV@LineWidth=\dimen326
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/latex2pydata/latex2pydata.sty
-Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Py
+(/usr/share/texmf-dist/tex/latex/latex2pydata/latex2pydata.sty
+Package: latex2pydata 2026/02/25 v0.7.0 latex2pydata - write data to file in Py
 thon literal format
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pgfopts/pgfopts.sty
+(/usr/share/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks51
 \pgfopts@list@add@b@toks=\toks52
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tools/shellesc.sty
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
-Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/float/float.sty
+(/usr/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count395
 \float@exts=\toks53
@@ -1033,26 +847,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@every@listing=\toks55
 \c@listing=\count397
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcbminted.code.tex
-Library (tcolorbox): 'tcbminted.code.tex' version '6.6.0'
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcblistingscore.code.tex
-Library (tcolorbox): 'tcblistingscore.code.tex' version '6.6.0'
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcbprocessing.code.tex
-Library (tcolorbox): 'tcbprocessing.code.tex' version '6.6.0'
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbminted.code.tex
+Library (tcolorbox): 'tcbminted.code.tex' version '6.9.0'
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
 )
 \c@tcblisting=\count398
-))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcbbreakable.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '6.6.0'
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/pdfcol/pdfcol.sty
+)) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.9.0'
+(/usr/share/texmf-dist/tex/latex/pdfcol/pdfcol.sty
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
@@ -1060,84 +865,67 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@totalupperbox=\box102
 \tcb@totallowerbox=\box103
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcbxparse.code.tex
-Library (tcolorbox): 'tcbxparse.code.tex' version '6.6.0'
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '6.9.0'
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/l3packages/xparse/xparse.sty
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-06-09 L3 programming layer (loader) 
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count399
 ))
-Package: xparse 2024-08-16 L3 Experimental document command parser
+Package: xparse 2025-10-09 L3 Experimental document command parser
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcbskins.code.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '6.6.0'
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tikzfill/tikzfill.image.sty
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
+(/usr/share/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
 Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tikzfill/tikzfill-common.sty
+(/usr/share/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
 Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+(/usr/share/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
 \l__tikzfill_img_box=\box104
 ))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.6.0'
-))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/babel/babel.sty
-Package: babel 2025/06/10 v25.10 The multilingual framework for pdfLaTeX, LuaLa
-TeX and XeLaTeX
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
+)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
 \babel@savecnt=\count400
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2043.
+ne 2078.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2045.
+ne 2080.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2047.
+e 2082.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2048.
+e 2083.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2049.
+on input line 2084.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2051.
+on input line 2086.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2076.
+on input line 2111.
 \U@D=\dimen327
-\l@unhyphenated=\language90
+\l@unhyphenated=\language5
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/babel/txtbabel.def)
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read5
-LaTeX Info: Redefining \textlatin on input line 3887.
+LaTeX Info: Redefining \textlatin on input line 3974.
 \bbl@dirlevel=\count401
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/babel-french/french.ldf
-Language: french 2025-06-28 v4.0a French support from the babel system
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/babel/locale/fr/babel-french.tex
+(/usr/share/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex)
 Package babel Info: Importing font and identification data for french
-(babel)             from babel-fr.ini. Reported on input line 12.
-)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/generic/babel-french/french3.ldf
-Language: french 2025-06-28 v3.7a French support from the babel system
+(babel)             from babel-fr.ini. Reported on input line 4330.
+
+(/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2025-08-15 v4.0e French support from the babel system
+
+(/usr/share/texmf-dist/tex/generic/babel-french/french3.ldf
+Language: french 2025-08-15 v3.7e French support from the babel system
 \FB@stdchar=\count402
 Package babel Info: Making : an active character on input line 273.
 Package babel Info: Making ; an active character on input line 274.
@@ -1160,23 +948,19 @@ Package babel Info: Making ? an active character on input line 276.
 \parindentFFN=\dimen335
 \FBfnindent=\dimen336
 )))
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 Package french3.ldf Info: No list customisation for the beamer class,
 (french3.ldf)             reported on input line 62.
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/base/inputenc.sty
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks57
 \inpenc@posthook=\toks58
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/caption/caption.sty
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/caption/caption3.sty
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen337
 \captionmargin=\dimen338
@@ -1189,8 +973,7 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 Package caption Info: beamer document class detected.
 Package caption Info: french babel package is loaded.
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/caption/caption-beamer.sto
+(/usr/share/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
 e beamer document classes (AR)
 ))
@@ -1208,7 +991,7 @@ Package french3.ldf Warning: OT1 encoding should not be used for French.
 
 (./presentation.aux
 Package babel Info: 'french' activates 'french' shorthands.
-(babel)             Reported  on input line 11.
+(babel)             Reported on input line 11.
 )
 \openout1 = `presentation.aux'.
 
@@ -1265,9 +1048,7 @@ LaTeX Font Info:    ... okay on input line 77.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count411
 \scratchdimen=\dimen345
@@ -1280,21 +1061,18 @@ LaTeX Font Info:    ... okay on input line 77.
 \MPnumerator=\count415
 \makeMPintoPDFobject=\count416
 \everyMPtoPDFconversion=\toks60
-)
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 77.
- (./presentation.out)
-(./presentation.out)
+
+(./presentation.out) (./presentation.out)
 \@outlinefile=\write6
 \openout6 = `presentation.out'.
 
@@ -1340,47 +1118,35 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 77.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 77.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
-7.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 7
-7.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 77.
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator-basic-dictionary-English.dict
+(/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
+.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator-bibliography-dictionary-English.dic
-t
+(/usr/share/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-
+English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator-environment-dictionary-English.dict
+(/usr/share/texmf-dist/tex/latex/translator/translator-environment-dictionary-E
+nglish.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator-months-dictionary-English.dict
+(/usr/share/texmf-dist/tex/latex/translator/translator-months-dictionary-Englis
+h.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator-numbers-dictionary-English.dict
+(/usr/share/texmf-dist/tex/latex/translator/translator-numbers-dictionary-Engli
+sh.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/translator/translator-theorem-dictionary-English.dict
+(/usr/share/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Engli
+sh.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \degres on input line 77.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-
-(./presentation.nav)
+ (./presentation.nav)
 Overfull \hbox (221.81433pt too wide) detected at line 77
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1393,15 +1159,12 @@ Overfull \hbox (221.81433pt too wide) detected at line 4
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
 
-[1{/nix/store/z9frz1vicb7gqm5j404xfcxj7qghnjgc-texlive-combined-full-2025.20250
-703/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 Overfull \hbox (221.81433pt too wide) detected at line 10
@@ -1410,8 +1173,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 10
  []
 
 (./presentation.toc)
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1424,8 +1185,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1448,8 +1207,6 @@ Package pdftex.def Info: Figures/onde_spirale_intro.png  used on input line 24.
 
 (pdftex.def)             Requested size: 219.06287pt x 125.27055pt.
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1462,8 +1219,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1481,33 +1236,20 @@ Overfull \hbox (221.81433pt too wide) detected at line 27
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
 
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
 
 
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 27.
-
-(/nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.2025070
-3-texmfdist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
 )
 <Figures/canaux_ioniques.png, id=893, 764.8575pt x 506.89375pt>
 File: Figures/canaux_ioniques.png Graphic file (type png)
 <use Figures/canaux_ioniques.png>
 Package pdftex.def Info: Figures/canaux_ioniques.png  used on input line 27.
 (pdftex.def)             Requested size: 184.3758pt x 122.19066pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1527,8 +1269,6 @@ File: Figures/potentiel_action.png Graphic file (type png)
 <use Figures/potentiel_action.png>
 Package pdftex.def Info: Figures/potentiel_action.png  used on input line 49.
 (pdftex.def)             Requested size: 183.59695pt x 137.40411pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1553,8 +1293,6 @@ Overfull \vbox (29.36084pt too high) detected at line 62
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1567,8 +1305,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 88
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1585,8 +1321,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 140
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1599,8 +1333,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1626,8 +1358,6 @@ Overfull \vbox (3.85632pt too high) detected at line 34
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1648,8 +1378,6 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 39.
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1664,8 +1392,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 78
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1678,8 +1404,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 119
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1701,8 +1425,6 @@ File: Figures/1.png Graphic file (type png)
 Package pdftex.def Info: Figures/1.png  used on input line 125.
 (pdftex.def)             Requested size: 307.28987pt x 156.78525pt.
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1721,8 +1443,6 @@ File: Figures/2.png Graphic file (type png)
 <use Figures/2.png>
 Package pdftex.def Info: Figures/2.png  used on input line 131.
 (pdftex.def)             Requested size: 307.28987pt x 156.78525pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1743,8 +1463,6 @@ File: Figures/3.png Graphic file (type png)
 Package pdftex.def Info: Figures/3.png  used on input line 137.
 (pdftex.def)             Requested size: 307.28987pt x 156.78525pt.
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1757,8 +1475,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1779,8 +1495,6 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 23.
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1796,8 +1510,7 @@ Overfull \hbox (221.81433pt too wide) detected at line 58
 
 
 Overfull \hbox (28.10683pt too wide) detected at line 58
-\OT1/mathkerncmss/m/sl/9 h\OT1/cmss/m/n/9 (\OT1/mathkerncmss/m/sl/9 V[]\OT1/cms
-s/m/n/9 ) = []
+\OT1/cmss/m/it/9 h\OT1/cmss/m/n/9 (\OT1/cmss/m/it/9 V[]\OT1/cmss/m/n/9 ) = []
  []
 
 <Figures/circuit.png, id=2859, 244.915pt x 161.60374pt>
@@ -1805,8 +1518,6 @@ File: Figures/circuit.png Graphic file (type png)
 <use Figures/circuit.png>
 Package pdftex.def Info: Figures/circuit.png  used on input line 58.
 (pdftex.def)             Requested size: 153.64493pt x 101.38184pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1831,8 +1542,6 @@ Overfull \vbox (30.27084pt too high) detected at line 71
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1851,8 +1560,6 @@ File: Figures/circuit1.png Graphic file (type png)
 <use Figures/circuit1.png>
 Package pdftex.def Info: Figures/circuit1.png  used on input line 105.
 (pdftex.def)             Requested size: 115.03062pt x 89.73593pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1878,8 +1585,6 @@ File: Figures/circuit_complet.png Graphic file (type png)
 Package pdftex.def Info: Figures/circuit_complet.png  used on input line 141.
 (pdftex.def)             Requested size: 153.64493pt x 84.5074pt.
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -1893,7 +1598,7 @@ Overfull \hbox (221.81433pt too wide) detected at line 150
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Linéaire.png, id=3403, 434.3427pt x 432.8973pt>
+<Figures/Linéaire.png, id=3402, 434.3427pt x 432.8973pt>
 File: Figures/Linéaire.png Graphic file (type png)
 <use Figures/Linéaire.png>
 Package pdftex.def Info: Figures/Linéaire.png  used on input line 150.
@@ -1901,8 +1606,6 @@ Package pdftex.def Info: Figures/Linéaire.png  used on input line 150.
 
 Overfull \vbox (14.33998pt too high) detected at line 150
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -1918,13 +1621,11 @@ Overfull \hbox (221.81433pt too wide) detected at line 158
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/materiel.png, id=3533, 192.72pt x 144.54pt>
+<Figures/materiel.png, id=3532, 192.72pt x 144.54pt>
 File: Figures/materiel.png Graphic file (type png)
 <use Figures/materiel.png>
 Package pdftex.def Info: Figures/materiel.png  used on input line 158.
 (pdftex.def)             Requested size: 269.80614pt x 202.35458pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1939,13 +1640,11 @@ Overfull \hbox (221.81433pt too wide) detected at line 166
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Preuve.jpeg, id=3662, 168.63pt x 121.6545pt>
+<Figures/Preuve.jpeg, id=3661, 168.63pt x 121.6545pt>
 File: Figures/Preuve.jpeg Graphic file (type jpg)
 <use Figures/Preuve.jpeg>
 Package pdftex.def Info: Figures/Preuve.jpeg  used on input line 166.
 (pdftex.def)             Requested size: 252.94437pt x 182.48128pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1960,18 +1659,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 174
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Moi.jpg, id=3790, 1606.0pt x 741.77126pt>
-File: Figures/Moi.jpg Graphic file (type jpg)
-<use Figures/Moi.jpg>
-Package pdftex.def Info: Figures/Moi.jpg  used on input line 174.
-(pdftex.def)             Requested size: 321.19432pt x 148.35162pt.
-
-Overfull \hbox (13.90445pt too wide) in paragraph at lines 174--174
- [] 
- []
-
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -1980,19 +1667,17 @@ Overfull \hbox (221.81433pt too wide) has occurred while \output is active
 
 [28
 
- <./Figures/Moi.jpg>]
+]
 Overfull \hbox (221.81433pt too wide) detected at line 182
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Threshold.png, id=3917, 614.295pt x 404.51125pt>
+<Figures/Threshold.png, id=3915, 614.295pt x 404.51125pt>
 File: Figures/Threshold.png Graphic file (type png)
 <use Figures/Threshold.png>
 Package pdftex.def Info: Figures/Threshold.png  used on input line 182.
 (pdftex.def)             Requested size: 307.14674pt x 202.25513pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -2007,13 +1692,11 @@ Overfull \hbox (221.81433pt too wide) detected at line 190
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Régimes.jpg, id=4045, 144.54pt x 99.2508pt>
+<Figures/Régimes.jpg, id=4043, 144.54pt x 99.2508pt>
 File: Figures/Régimes.jpg Graphic file (type jpg)
 <use Figures/Régimes.jpg>
 Package pdftex.def Info: Figures/Régimes.jpg  used on input line 190.
 (pdftex.def)             Requested size: 274.6244pt x 188.5754pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -2027,8 +1710,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -2045,8 +1726,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 18
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2059,8 +1738,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 27
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -2076,7 +1753,7 @@ Overfull \hbox (221.81433pt too wide) detected at line 46
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Potentiel.png, id=4564, 433.62pt x 433.62pt>
+<Figures/Potentiel.png, id=4562, 433.62pt x 433.62pt>
 File: Figures/Potentiel.png Graphic file (type png)
 <use Figures/Potentiel.png>
 Package pdftex.def Info: Figures/Potentiel.png  used on input line 46.
@@ -2084,8 +1761,6 @@ Package pdftex.def Info: Figures/Potentiel.png  used on input line 46.
 
 Overfull \vbox (3.33626pt too high) detected at line 46
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -2101,13 +1776,11 @@ Overfull \hbox (221.81433pt too wide) detected at line 65
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Spiral.png, id=4693, 511.6716pt x 411.939pt>
+<Figures/Spiral.png, id=4691, 511.6716pt x 411.939pt>
 File: Figures/Spiral.png Graphic file (type png)
 <use Figures/Spiral.png>
 Package pdftex.def Info: Figures/Spiral.png  used on input line 65.
 (pdftex.def)             Requested size: 169.01036pt x 136.066pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -2121,8 +1794,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -2139,8 +1810,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 11
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2154,13 +1823,11 @@ Overfull \hbox (221.81433pt too wide) detected at line 23
 [][][] [][][][][] [][][][][][][][]  
  []
 
-<Figures/Breakup.png, id=5086, 454.69875pt x 139.52126pt>
+<Figures/Breakup.png, id=5084, 454.69875pt x 139.52126pt>
 File: Figures/Breakup.png Graphic file (type png)
 <use Figures/Breakup.png>
 Package pdftex.def Info: Figures/Breakup.png  used on input line 23.
 (pdftex.def)             Requested size: 307.28987pt x 94.28986pt.
-
-
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
@@ -2176,8 +1843,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 29
  []
 
 
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2190,8 +1855,6 @@ Overfull \hbox (221.81433pt too wide) detected at line 1
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -2222,23 +1885,21 @@ Overfull \hbox (221.81433pt too wide) detected at line 43
 \pydata@fh@0=\write8
 \openout8 = `_2486923A98E77FD0740381D01ACD1782.data.minted'.
 
-runsystem(latexminted config  --timestamp 20260606130634 2486923A98E77FD0740381
-D01ACD1782)...executed.
+runsystem(latexminted config  --timestamp 20261027190745 2486923A98E77FD0740381
+D01ACD1782)...executed safely (allowed).
 
  (./_2486923A98E77FD0740381D01ACD1782.config.minted)
-runsystem(latexminted cleanconfig  --timestamp 20260606130634 2486923A98E77FD07
-40381D01ACD1782)...executed.
+runsystem(latexminted cleanconfig  --timestamp 20261027190745 2486923A98E77FD07
+40381D01ACD1782)...executed safely (allowed).
 
 
 (./_minted/default.style.minted)
-(./_minted/CA81742E1C0940354C59B13C407BCD20.highlight.minted
+(./_minted/4E2042EC3E7ACB27D40AC2B4A40A660E.highlight.minted
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <5> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
 ))
 Overfull \vbox (9.6244pt too high) detected at line 43
  []
-
-
 
 
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
@@ -2266,9 +1927,7 @@ Overfull \hbox (221.81433pt too wide) detected at line 66
 \openout7 = `presentation.listing'.
 
 
-(./_minted/8CFD94E2E31E58313F0A86161EB79BE6.highlight.minted))
-
-
+(./_minted/0512510A3FCA8C0B89B4FB2F52D2BA76.highlight.minted))
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2294,9 +1953,7 @@ Overfull \hbox (221.81433pt too wide) detected at line 106
 \openout7 = `presentation.listing'.
 
 
-(./_minted/C3058A7106ABCC82D06B2F8EB8A6A064.highlight.minted))
-
-
+(./_minted/75B0BA179680617FE8D8BECD989B1719.highlight.minted))
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2322,12 +1979,10 @@ Overfull \hbox (221.81433pt too wide) detected at line 128
 \openout7 = `presentation.listing'.
 
 
-(./_minted/C3F167CAA781D28E94B3380CE6295150.highlight.minted
+(./_minted/B787648F9FAE3F1D582D183983214B9C.highlight.minted
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
 ))
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2353,12 +2008,10 @@ Overfull \hbox (221.81433pt too wide) detected at line 154
 \openout7 = `presentation.listing'.
 
 
-(./_minted/AD9898BB06D42EDA046DA147BE38DA54.highlight.minted
+(./_minted/3FD8888B75C9B5D372B951EF5A7EC38A.highlight.minted
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
 ))
-
-
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2384,9 +2037,7 @@ Overfull \hbox (221.81433pt too wide) detected at line 177
 \openout7 = `presentation.listing'.
 
 
-(./_minted/FA983B4E2AC7BCA6ED82388DF8525DBE.highlight.minted))
-
-
+(./_minted/5B932CAC586F011CF65474ACBEB6A8F2.highlight.minted))
 Overfull \hbox (221.81433pt too wide) has occurred while \output is active
   [] [][][] [][][][][][][] [][][][][][][][][] [][][][][][][][][][][][][] [][][]
 [][][] [][][][][] [][][][][][][][]  
@@ -2406,63 +2057,43 @@ Overfull \hbox (221.81433pt too wide) has occurred while \output is active
 
  (./presentation.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-06-09>
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 9F1CB9D0D8D083A3A5264AB8F92579E9;1522.
  ) 
 Here is how much of TeX's memory you used:
- 36672 strings out of 467888
- 823196 string characters out of 5405403
- 1341346 words of memory out of 5000000
- 64425 multiletter control sequences out of 15000+600000
- 638659 words of font info for 83 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 128i,20n,123p,819b,1319s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250
-703-texmfdist/fonts/type1/public/amsfonts/cm/cmex10.pfb></nix/store/g8dk6akamb2
-kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1
-/public/amsfonts/cmextra/cmex9.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z
--texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-20
-25.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></nix/store/g8dk
-6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/font
-s/type1/public/amsfonts/cm/cmmi7.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh9
-2z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm
-/cmmi9.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2
-025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmr5.pfb></nix/store/g8dk
-6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/font
-s/type1/public/amsfonts/cm/cmr6.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92
-z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/
-cmss10.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2
-025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmss12.pfb></nix/store/g8
-dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/fo
-nts/type1/public/amsfonts/cm/cmss8.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wl
-h92z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/
-cm/cmss9.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full
--2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></nix/stor
-e/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdis
-t/fonts/type1/public/amsfonts/cm/cmssi10.pfb></nix/store/g8dk6akamb2kavrmlqch1n
-m3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public/ams
-fonts/cm/cmssi8.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combin
-ed-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></nix
-/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-tex
-mfdist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></nix/store/g8dk6akamb2kavrmlq
-ch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/public
-/amsfonts/cm/cmsy5.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-com
-bined-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></n
-ix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-t
-exmfdist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></nix/store/g8dk6akamb2kavrml
-qch1nm3m3wlh92z-texlive-combined-full-2025.20250703-texmfdist/fonts/type1/publi
-c/amsfonts/cm/cmsy9.pfb></nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-co
-mbined-full-2025.20250703-texmfdist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></
-nix/store/g8dk6akamb2kavrmlqch1nm3m3wlh92z-texlive-combined-full-2025.20250703-
-texmfdist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on presentation.pdf (46 pages, 2904026 bytes).
+ 36692 strings out of 469486
+ 792578 string characters out of 5469657
+ 1352287 words of memory out of 5000000
+ 64571 multiletter control sequences out of 15000+600000
+ 638978 words of font info for 82 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 101i,20n,107p,819b,1333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmssi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmssi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on presentation.pdf (46 pages, 2707456 bytes).
 PDF statistics:
- 6624 PDF objects out of 7423 (max. 8388607)
- 3674 compressed objects within 37 object streams
+ 6620 PDF objects out of 7423 (max. 8388607)
+ 3672 compressed objects within 37 object streams
  101 named destinations out of 1000 (max. 500000)
- 630 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 625 words of extra memory for PDF output out of 10000 (max. 10000000)
 
